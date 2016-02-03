@@ -21,3 +21,6 @@ webdriver-manager start
 ```bash
 protractor conf.js
 ```
+
+## sources
+I found the information at http://docsplendid.com/archives/209
