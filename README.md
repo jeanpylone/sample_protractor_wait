@@ -17,9 +17,10 @@ npm install
 webdriver-manager start
 ```
 
-## run the test
+## run the tests
 ```bash
-protractor conf.js
+protractor wait_sample/conf.js
+protractor size_sample/conf.js
 ```
 
 ## sources
